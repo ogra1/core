@@ -1,0 +1,5 @@
+core (16-2) xenial; urgency=medium
+
+  * fake changelog to make autopkgtest happy
+
+ -- Oliver Grawert <ogra@ubuntu.com>  Wed, 22 Feb 2017 13:22:52 +0100

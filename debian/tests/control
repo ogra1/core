@@ -1,0 +1,3 @@
+Tests: build-tests
+Restrictions: allow-stderr, isolation-container, rw-build-tree, needs-root, breaks-testbed
+Depends: snapcraft

@@ -1,0 +1,13 @@
+Source: core
+Section: devel
+Priority: optional
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Build-Depends: snapcraft, debhelper
+Standards-Version: 3.9.7
+
+Package: core
+Architecture: all
+Depends: snapcraft
+Description: fake packaging
+ this is a fake package setup only to run the autopkgtest under
+ debian/tests

@@ -1,0 +1,9 @@
+#!/usr/bin/make -f
+# FAKE debian/rules to make autopkgtest happy
+
+%:
+	dh $@
+
+override_dh_auto_clean:
+override_dh_auto_build:
+override_dh_auto_install:
