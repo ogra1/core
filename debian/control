@@ -2,7 +2,7 @@ Source: core
 Section: devel
 Priority: optional
 Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
-Build-Depends: snapcraft, debhelper
+Build-Depends: debhelper
 Standards-Version: 3.9.7
 
 Package: core
